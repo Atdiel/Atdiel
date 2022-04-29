@@ -1,6 +1,8 @@
 
 <div align="center">
-  <h1>👋 Hi</h1>
+  <h2>
+    👋 Hi
+  </h2>
 </div>
 
 - I’m @Atdiel and i'm a *software engineering* student
