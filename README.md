@@ -1,5 +1,7 @@
 
-## 👋 Hi
+<div align="center">
+  <h1>👋 Hi</h1>
+</div>
 
 - I’m @Atdiel and i'm a *software engineering* student
 - 👀 I’m interested in **backend development**
