@@ -5,7 +5,7 @@
   </h2>
 </div>
 
-- I’m @Atdiel and i'm a *software engineering* student
+- I’m @Atdiel and i'm a *software engineering* student 🥷
 - 👀 I’m interested in **backend development**
 
 <!---
